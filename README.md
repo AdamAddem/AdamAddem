@@ -3,11 +3,11 @@
 ## About Me
 I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science. My favorite courses so far have been System's Software and Computer Architecture and Design.</br>
 
-I really enjoy low-level programming. My first love was C and my current is C++. In fact I love it so much I'm currently developing a game engine/library designed to be used directly with C++ as its main 'scripting' and logic language. Its modeled after Godot, which is the only engine i've really enjoyed using. </br>
+I really enjoy low-level programming; my first love was C and my current is C++. I'm currently developing a game engine/library modeled after Godot, but designed to be used directly with C++ as its main 'scripting' language</br>
 
 Outside of school I spend some of my time developing C++ or reading up on it, as well as hitting the gym and going for unnecessarily long walks.</br>
 
-For work I'm an independent tutor. I also tutor as a hobby for anyone around me who needs it, as I enjoy it quite a bit. Previously I've spent my time in and out of fast food, with a notable exception of being a parade attendant during the Universal Studios 2024 Christmas Macy's Parade </br> 
+For work I'm an independent tutor; I also do it as a hobby, helping any of my classmates I can. Previously I've spent my time in and out of fast food, with a notable exception of being a parade attendant during the Universal Studios 2024 Christmas Macy's Parade. </br> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/356942190351745024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:32jenjen23@gmail.com) 
