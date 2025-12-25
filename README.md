@@ -1,9 +1,10 @@
 # AdamAddem
 
 ## About Me
-I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science. My favorite courses so far have been System's Software and Computer Architecture and Design.</br>
+I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
 
-I really enjoy low-level programming; my first love was C and my current is C++. I'm currently developing a game engine/library modeled after Godot, but designed to be used directly with C++ as its main 'scripting' language</br>
+I really enjoy low-level programming; my first love was C and my current is C++. I'm currently developing a game engine/library modeled after Godot designed to be used directly with C++ as its main 'scripting' language.
+I'm also working on a programming language inspired by C++ with the intention of fixing many of the mistakes it has made over the years. </br>
 
 Outside of school I spend some of my time developing C++ or reading up on it, as well as hitting the gym and going for unnecessarily long walks.</br>
 
