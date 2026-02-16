@@ -13,9 +13,9 @@
 <br>
 <br>
 
-<h6>[Look Once More](https://github.com/AdamAddem/Look-Once-More-PL)</h6> <br>
-<h6>[AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3)</h6> <br>
-<h6>[Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed)</h6> <br>
+<h4>[Look Once More](https://github.com/AdamAddem/Look-Once-More-PL)</h4> <br>
+<h4>[AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3)</h4> <br>
+<h4>[Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed)</h4> <br>
 ## Heap
 
 
