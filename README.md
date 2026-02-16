@@ -1,5 +1,5 @@
 ***
-### Stack
+### Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br>
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) <br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br>
@@ -12,14 +12,14 @@
 [Look Once More](https://github.com/AdamAddem/Look-Once-More-PL) <br>
 [AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3) <br>
 [Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed) <br>
-### Heap
+### Heap:
 ***
 
-### Data
+### Data:
 Three years of C++, C, and general low-level programming experience. Comfortable with the Object Oriented, Imperative, and Data Oriented paradigms. Familiar with DSA, Computer Architecture, and Operating Systems.
 ***
 
-### Text
+### Text:
 I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
 
 I really enjoy low-level programming; my first love was C and my current is C++. I'm developing a game engine/library modeled after Godot designed to be used directly with C++ as its main 'scripting' language.
