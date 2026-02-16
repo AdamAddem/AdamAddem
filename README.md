@@ -19,17 +19,18 @@
 [Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed) <br>
 ### Heap
 ***
+<br>
 
 
 
-
-## Data:
+***
+### Data
 Three years of C++, C, and general low-level programming experience. Comfortable with the Object Oriented, Imperative, and Data Oriented paradigms. Familiar with DSA, Computer Architecture, and Operating Systems.
-<br>
-<br>
+***
 <br>
 
-## Text:
+***
+### Text
 I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
 
 I really enjoy low-level programming; my first love was C and my current is C++. I'm developing a game engine/library modeled after Godot designed to be used directly with C++ as its main 'scripting' language.
@@ -40,3 +41,4 @@ Outside of school I spend most of my time developing or reading up on developmen
 I participate in the Programming for Young Engineers club at UCF, where I volunteer to teach childen the basics of programming using micro:bits.
 For work I'm an independent tutor; I also do it as a hobby, helping any of my classmates I can.</br>
 Contact: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/356942190351745024) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:32jenjen23@gmail.com)
+***
