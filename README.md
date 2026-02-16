@@ -19,12 +19,10 @@
 [Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed) <br>
 ### Heap
 ***
-<br>
 
 ### Data
 Three years of C++, C, and general low-level programming experience. Comfortable with the Object Oriented, Imperative, and Data Oriented paradigms. Familiar with DSA, Computer Architecture, and Operating Systems.
 ***
-<br>
 
 ### Text
 I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
