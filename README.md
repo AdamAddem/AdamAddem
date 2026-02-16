@@ -1,4 +1,4 @@
-## Stack
+### Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -16,7 +16,7 @@
 #### [Look Once More](https://github.com/AdamAddem/Look-Once-More-PL)
 #### [AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3)
 #### [Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed)
-## Heap
+### Heap
 
 
 
