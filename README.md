@@ -8,10 +8,9 @@
 <br>
 <br>
 <br>
-
-* [Look Once More](https://github.com/AdamAddem/Look-Once-More-PL) <br>
-* [AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3) <br>
-* [Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed) <br>
+[Look Once More](https://github.com/AdamAddem/Look-Once-More-PL) <br>
+[AdamLibSDL3](https://github.com/AdamAddem/AdamLibSDL3) <br>
+[Standard Library Remixed](https://github.com/AdamAddem/StandardLibraryRemixed) <br>
 ### Heap:
 ***
 
@@ -22,8 +21,9 @@ Three years of C++, C, and general low-level programming experience. Comfortable
 ### Text:
 I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
 
-I really enjoy low-level programming; my first love was C and my current is C++. I'm developing a game engine/library modeled after Godot designed to be used directly with C++ as its main 'scripting' language.
-I'm also working on a AOT compiled systems programming language inspired by C++ with the intention of fixing many of the mistakes it has made over the years. </br>
+I really enjoy low-level programming; my first love was C and my current is C++.
+I'm working on a AOT compiled systems programming language inspired by C++ with the intention of fixing many of the mistakes it has made over the years. </br>
+I'm also developing a game engine/library modeled after Godot designed to be used directly with C++ as its main 'scripting' language. <br>
 
 Outside of school I spend most of my time developing or reading up on development, as well as hitting the gym and going for unnecessarily long walks.</br>
 
