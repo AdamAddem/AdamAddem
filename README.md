@@ -15,11 +15,11 @@
 ***
 
 ### Data:
-Three years of C++, C, and general low-level programming experience. Comfortable with the Object Oriented, Imperative, and Data Oriented paradigms. Familiar with DSA, Computer Architecture, and Operating Systems.
+Four years of C++, C, and general low-level programming experience. Comfortable with the Object Oriented, Imperative, and Data Oriented paradigms. Familiar with DSA, Computer Architecture, and Operating Systems.
 ***
 
 ### Text:
-I'm Adam Lugo, a third year Computer Science student at the University of Central Florida, attending for a Bachelor's of Science.</br>
+I'm Adam Lugo, a fourth year Computer Science student at the University of Central Florida.</br>
 
 I really enjoy low-level programming; my first love was C and my current is C++.
 I'm working on a AOT compiled systems programming language inspired by C++ with the intention of fixing many of the mistakes it has made over the years. </br>
